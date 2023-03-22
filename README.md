@@ -1,7 +1,7 @@
 
 [![@jouali's Holopin board](https://holopin.me/jouali)](https://holopin.io/@jouali)
 
-<h1 align="center">Hi 👋, I'm @jou-ali</h1>
+<h1 align="center">Hi 👋, I'm JOUHAR ALI</h1>
 <h3 align="center">A passionate Embedded developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jou-ali&label=Profile%20views&color=0e75b6&style=flat" alt="jou-ali" /> </p>
